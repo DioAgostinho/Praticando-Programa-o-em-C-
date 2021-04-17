@@ -1,7 +1,7 @@
 # Desafio de Codificação
-Praticando Programação em C#  
 
-## Desenvolvimento de algoritmos e conceitos de pensamento computacional
+# Praticando Programação em C#
+ Deenvolvimeto de algoritmos e conceitos de penamento computacional
 
 ## Digital Innovation One
 
@@ -9,5 +9,7 @@ Praticando Programação em C#
 
 ## Agostinho Lima
 [Github](https://github.com/dioagostinho)
-[Facebook](https://www.facebook.com/agostinho.lima.332)  
+
+[Facebook](https://www.facebook.com/agostinho.lima.332)
+
 [Instagram](https://www.instagram.com/agostinhopb/)
