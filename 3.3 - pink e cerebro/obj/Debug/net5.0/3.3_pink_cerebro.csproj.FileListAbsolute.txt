@@ -1,0 +1,16 @@
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.exe
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.deps.json
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.runtimeconfig.json
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.runtimeconfig.dev.json
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.dll
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\ref\3.3_pink_cerebro.dll
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\bin\Debug\net5.0\3.3_pink_cerebro.pdb
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.csprojAssemblyReference.cache
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.AssemblyInfoInputs.cache
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.AssemblyInfo.cs
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.csproj.CoreCompileInputs.cache
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.dll
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\ref\3.3_pink_cerebro.dll
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.pdb
+C:\Users\Agostinho Lima\Desktop\CURSO Desenvolvedor FULLSTACK\Praticando Prog. em C#\3.3_pink_cerebro\obj\Debug\net5.0\3.3_pink_cerebro.genruntimeconfig.cache

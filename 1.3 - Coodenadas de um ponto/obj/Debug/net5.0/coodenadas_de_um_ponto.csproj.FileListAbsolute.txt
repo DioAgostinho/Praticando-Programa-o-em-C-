@@ -1,0 +1,16 @@
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.csprojAssemblyReference.cache
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.AssemblyInfoInputs.cache
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.AssemblyInfo.cs
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.csproj.CoreCompileInputs.cache
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.exe
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.deps.json
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.runtimeconfig.json
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.runtimeconfig.dev.json
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.dll
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\ref\coodenadas_de_um_ponto.dll
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\bin\Debug\net5.0\coodenadas_de_um_ponto.pdb
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.dll
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\ref\coodenadas_de_um_ponto.dll
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.pdb
+C:\Users\Agostinho Lima\Nova pasta\coodenadas_de_um_ponto\obj\Debug\net5.0\coodenadas_de_um_ponto.genruntimeconfig.cache
